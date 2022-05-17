@@ -1,0 +1,274 @@
+*{
+    margin: 0px;
+    padding: 0px;
+    /* background-color: rgb(240 240 240); */
+  
+    
+}
+#navbar{
+    /* border: 2px solid red; */
+    display: flex;
+    align-items: center;
+    position: sticky;
+    top: 0px;
+    height: 60px;
+    background-color: white;
+    
+}
+ img{
+    padding: 50px;
+    height: 35px;
+    padding-left: 230px;
+     
+}
+
+
+
+ ul {
+     display: block;
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+ 
+  }
+  
+  li {
+    float: left;
+  }
+  
+  li a {
+    display: block;
+    color: rgb(107, 104, 104);
+    text-align: center;
+    padding: 14px 16px;
+    text-decoration: none;
+    margin: 34px 0px 0px 0px;
+  }
+  
+  /* li a:hover {
+    background-color: #111;
+  } */
+  form input{
+    padding-left: 30px;
+    width: 280px;
+    height: 36px;
+    margin: 4px 0px 3px -51px;
+    border-radius: 4px;
+    background-color:rgb(202 241 255);
+}
+  #search{
+    height: 3px;
+    margin: -18px 359px 5px -273px;
+}
+  .line{
+    font-size: 68px;
+    margin: -15px -1px 1px -7px;
+    opacity: 0.3;
+ }   
+div p{
+   
+    width: 113px;
+}
+
+ div span p{
+    margin: 0px 14px 3px 38px;
+}  
+.home{
+    margin: -11px 42px 12px -759px;
+    font-size: 20px;
+
+}
+.sup{
+  margin: -13px -6px 8px 10px;
+}
+.zxc{
+  
+  margin: 5px 0px 13px 450px;
+
+}
+.user{
+  margin: -10px 0px 6px -116px;
+}
+.alert{
+margin: -15px 1px 8px -107px;
+}
+.work{
+
+  margin: -5px -12px 15px -214px;
+}
+.sms{
+  margin: -16px 24px 7px 66px;
+}
+
+header{
+  display: inline-block;
+  border: 2px solid rgb(210 214 201);
+  width: 720px;
+  margin: 27px 0px 0px 227px;
+  border-radius: 7px;
+  background-color: white;
+
+
+}
+header img{
+  width: 717px;
+  height: 180px;
+  margin: -49px 9px 0px -227px;
+  
+}
+img.xx{
+  border: 2px solid rgb(210 214 201);
+  width: 348px;
+  height: 311px;
+  display: block;
+  margin: -469px -12px 98px 967px;
+  padding: 5px 9px;
+  border-radius: 7px;
+  background-color: white;
+}
+header h2{
+  margin: -45px 13px 14px 33px;
+}
+header p{
+  margin: 23px 13px 14px 33px;
+}
+div.abs{
+  margin: 23px 13px 14px 33px;
+}
+div.abs:hover{
+  color: blue;
+  text-decoration: underline;
+}
+ .btn{
+ border-radius: 15px;
+ margin: 0px -42px 0px 55px;
+ padding: 4px 0px 0px 0px;
+ cursor: pointer;
+}
+#btn1{
+width: 140px;
+height: 30px;
+font-weight: bold;
+background-color: white;
+}
+#btn2{
+  width: 140px;
+  height: 30px;
+  font-weight: bold;
+  border-color: rgb(58, 94, 238);
+  color: rgb(58, 94, 238) ;
+  background-color: white;
+  
+}
+#btn3{
+  width: 75px;
+  height: 30px;
+  font-weight: bold;
+  background-color: white;
+}
+#btn1:hover{
+  color: white;
+  background-color: rgb(58, 94, 238);
+}
+#btn2:hover{
+  text-decoration: underline;
+  background-color: rgb(207, 230, 242);
+}
+#btn3:hover{
+  background-color: rgb(226, 222, 230);
+}
+ul#down{
+  margin: 12px 11px 8px 29px;
+}
+ul#down li{
+  margin: 0px 36px 0px 0px;
+  font-weight: bold;
+  color: rgb(124 118 118);
+  
+   
+}
+ ul#down li:hover{
+  color: rgb(28, 26, 26);
+  cursor: pointer;
+}
+section{
+  border: 2px solid rgb(210 214 201);
+  border-radius: 7px;
+  width: 673px;
+  margin: 65px 33px 64px 225px;
+  padding: 25px 25px;
+  display: inline-block;
+  height: 140px;
+  background-color: white;
+
+
+}
+section div h2{
+  color: #393737;
+}
+section  p{
+  padding: 17px 2px;
+  color: #bbbaba;
+}
+section h4{
+  padding: 14px 279px;
+  color: #6f6767;
+}
+aside.im2{
+  border: 2px solid rgb(210 214 201);
+  background-color: white;
+  height: 495px;
+  width: 275px;
+  margin: -394px 10px 13px 969px;
+  padding: 15px 45px;
+  border-radius: 7px;
+}
+img.im3{
+  height: 401px;
+  width: 293px;
+  margin: -27px 7px -36px -242px;
+  z-index: -1;
+}
+.simi p{
+  margin: 14px 0px 0px 58px;
+  width: 150px;
+  font-weight: bold;
+  color: #b2aaaa;
+}
+section.sec2{
+  margin: -191px -40px -63px 224px;
+    display: block;
+}
+
+section.sec2 p{
+  width: 500px;
+  margin: 27px 10px 15px 222px;
+}
+section.sec2 video{
+  max-width: 100%;
+  height: auto;
+}
+
+ul li a:hover{
+  cursor: pointer;
+  color: black;
+}
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
+
